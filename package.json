@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-complete-guide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "start-server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lordfarhan/nodejs-complete-guide.git"
+  },
+  "author": "Farhan Muhammad <farhan@codeiva.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lordfarhan/nodejs-complete-guide/issues"
+  },
+  "homepage": "https://github.com/lordfarhan/nodejs-complete-guide#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
